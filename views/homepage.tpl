@@ -1,1 +1,0 @@
-{{include logo_module}}
