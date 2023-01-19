@@ -1,7 +1,6 @@
 <div class="pure-g-1">
     <h1 class="pure-header">
-    (** please create a title field inside clippings model **)
-    {{ setting.logo_section_header }}
+    {{setting.logo-section.logo_section_header}}
     </h1>
     <div class="pure-g">
     {{each logo_icons as logo where sort by sort_order}}
