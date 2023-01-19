@@ -33,5 +33,8 @@ Preview: https://logosection.zesty.dev/
 1. Go to  `Settings` tab -> Webengine styles & fonts -> Browse Fonts
 2. Select the font-family/style the user want to use -> Click `Add`
 ![image](https://user-images.githubusercontent.com/114006998/213472234-6f00b6ac-a97d-4604-8fce-55c1eb5ccd0d.png)
-3. Double check installation by going to `Installed Fonts` (The user may also use the search bar)
+3. Check installation by going to `Installed Fonts` (The user may also use the search bar)
 ![image](https://user-images.githubusercontent.com/114006998/213472491-17d6803c-0a0d-4fd2-a24d-886c7a0eaf74.png)
+4. Double check installation by going to `Head Tags` -> Searching for its font-family name 
+![image](https://user-images.githubusercontent.com/114006998/213518154-c01aac92-14ee-4998-990b-2ebd36fa0b13.png)
+
